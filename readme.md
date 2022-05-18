@@ -3,7 +3,9 @@
 
 ## Slide deck
 
-Over on [google slides](https://docs.google.com/presentation/d/1oNNFtGpqNN1R32kBidtnlbkIJnazaNr26dnwOrpNtck/edit?usp=drivesdk)
+Over on [google slides](https://docs.google.com/presentation/d/1oNNFtGpqNN1R32kBidtnlbkIJnazaNr26dnwOrpNtck/edit?usp=drivesdk).
+
+Might find some of the information that's missing here in the slides.
 
 
 ## Motive
