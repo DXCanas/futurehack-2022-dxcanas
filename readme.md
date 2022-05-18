@@ -7,7 +7,15 @@ Over on [google slides](https://docs.google.com/presentation/d/1oNNFtGpqNN1R32kB
 
 
 ## Motive
+Not everyone grows up in a technical household. Not everyone grows up going to a school that encourages any sort of technical field. More broadly, not everyone learns to code in an environment where there's any guidance around the alphabet soup that is our field.
 
+Getting "plugged in" to the new hotness then becomes really difficult. Because even if you finish the Codecademy course, you still might not know what an API. Or what "Edge" means. Or what half the words on that entry-level job description are.
+
+Stack Overflow is around, but can be viscious. Same goes for pretty much any forum. It's also difficult to contextualize a question in a way that doesn't seem obtuse to veterans. 
+
+What if we could write in the margins of new product announcements? Ask what different acronyms mean? Maybe even ask them pre-emptively so that newer folks will have answers to look at once they do get a chance to read? 
+
+Maybe it can be as simple as explaining why a new tool is such a big deal.
 
 
 ## Implementation
