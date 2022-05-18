@@ -28,3 +28,6 @@ After modifying the bodies, the emails can be forwarded over to a subscriber. Ov
 The idea here is to encourage questions and discussion on these articles, so the peopel who receive the last email have an opportunity to ask questions, creating an opportunity to decrypt the alphabet soup.
 
 Like (Firefox Relay)[relay.firefox.com] or (Simple Login)[simplelogin.io], but explantion/education minded rather than privacy-minded.
+
+## Quirks/Unknowns
+Couldn't work out how to get an email's body over to pubsub in between sessions. (Although, there are docs on sending email out of cloud build)[https://cloud.google.com/build/docs/configuring-notifications/configure-smtp]
